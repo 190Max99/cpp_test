@@ -1,0 +1,3 @@
+D:/C++code/cmake_firsr/build/CMakeFiles/CMAKE_FIRST.dir
+D:/C++code/cmake_firsr/build/CMakeFiles/edit_cache.dir
+D:/C++code/cmake_firsr/build/CMakeFiles/rebuild_cache.dir
