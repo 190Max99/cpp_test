@@ -1,26 +1,26 @@
 [
 {
-  "directory": "D:/C++code/cmake_firsr/build",
-  "command": "C:/MinGW64/mingw64/bin/g++.exe  @CMakeFiles/CMAKE_FIRST.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/CMAKE_FIRST.dir/src/add.cpp.obj -c D:/C++code/cmake_firsr/src/add.cpp",
-  "file": "D:/C++code/cmake_firsr/src/add.cpp",
+  "directory": "D:/desktop/cpp_test/cmake_firsr/build",
+  "command": "D:\\PROGRA~1\\minGW\\MinGW\\bin\\G__~1.EXE  @CMakeFiles/CMAKE_FIRST.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CMAKE_FIRST.dir\\src\\add.cpp.obj -c D:\\desktop\\cpp_test\\cmake_firsr\\src\\add.cpp",
+  "file": "D:/desktop/cpp_test/cmake_firsr/src/add.cpp",
   "output": "CMakeFiles/CMAKE_FIRST.dir/src/add.cpp.obj"
 },
 {
-  "directory": "D:/C++code/cmake_firsr/build",
-  "command": "C:/MinGW64/mingw64/bin/g++.exe  @CMakeFiles/CMAKE_FIRST.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/CMAKE_FIRST.dir/src/main.cpp.obj -c D:/C++code/cmake_firsr/src/main.cpp",
-  "file": "D:/C++code/cmake_firsr/src/main.cpp",
+  "directory": "D:/desktop/cpp_test/cmake_firsr/build",
+  "command": "D:\\PROGRA~1\\minGW\\MinGW\\bin\\G__~1.EXE  @CMakeFiles/CMAKE_FIRST.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CMAKE_FIRST.dir\\src\\main.cpp.obj -c D:\\desktop\\cpp_test\\cmake_firsr\\src\\main.cpp",
+  "file": "D:/desktop/cpp_test/cmake_firsr/src/main.cpp",
   "output": "CMakeFiles/CMAKE_FIRST.dir/src/main.cpp.obj"
 },
 {
-  "directory": "D:/C++code/cmake_firsr/build",
-  "command": "C:/MinGW64/mingw64/bin/g++.exe  @CMakeFiles/CMAKE_FIRST.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/CMAKE_FIRST.dir/src/mly.cpp.obj -c D:/C++code/cmake_firsr/src/mly.cpp",
-  "file": "D:/C++code/cmake_firsr/src/mly.cpp",
+  "directory": "D:/desktop/cpp_test/cmake_firsr/build",
+  "command": "D:\\PROGRA~1\\minGW\\MinGW\\bin\\G__~1.EXE  @CMakeFiles/CMAKE_FIRST.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CMAKE_FIRST.dir\\src\\mly.cpp.obj -c D:\\desktop\\cpp_test\\cmake_firsr\\src\\mly.cpp",
+  "file": "D:/desktop/cpp_test/cmake_firsr/src/mly.cpp",
   "output": "CMakeFiles/CMAKE_FIRST.dir/src/mly.cpp.obj"
 },
 {
-  "directory": "D:/C++code/cmake_firsr/build",
-  "command": "C:/MinGW64/mingw64/bin/g++.exe  @CMakeFiles/CMAKE_FIRST.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/CMAKE_FIRST.dir/code/divide.cpp.obj -c D:/C++code/cmake_firsr/code/divide.cpp",
-  "file": "D:/C++code/cmake_firsr/code/divide.cpp",
+  "directory": "D:/desktop/cpp_test/cmake_firsr/build",
+  "command": "D:\\PROGRA~1\\minGW\\MinGW\\bin\\G__~1.EXE  @CMakeFiles/CMAKE_FIRST.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CMAKE_FIRST.dir\\code\\divide.cpp.obj -c D:\\desktop\\cpp_test\\cmake_firsr\\code\\divide.cpp",
+  "file": "D:/desktop/cpp_test/cmake_firsr/code/divide.cpp",
   "output": "CMakeFiles/CMAKE_FIRST.dir/code/divide.cpp.obj"
 }
 ]

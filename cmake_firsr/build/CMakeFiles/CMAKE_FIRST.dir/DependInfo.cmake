@@ -8,10 +8,10 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/C++code/cmake_firsr/code/divide.cpp" "CMakeFiles/CMAKE_FIRST.dir/code/divide.cpp.obj" "gcc" "CMakeFiles/CMAKE_FIRST.dir/code/divide.cpp.obj.d"
-  "D:/C++code/cmake_firsr/src/add.cpp" "CMakeFiles/CMAKE_FIRST.dir/src/add.cpp.obj" "gcc" "CMakeFiles/CMAKE_FIRST.dir/src/add.cpp.obj.d"
-  "D:/C++code/cmake_firsr/src/main.cpp" "CMakeFiles/CMAKE_FIRST.dir/src/main.cpp.obj" "gcc" "CMakeFiles/CMAKE_FIRST.dir/src/main.cpp.obj.d"
-  "D:/C++code/cmake_firsr/src/mly.cpp" "CMakeFiles/CMAKE_FIRST.dir/src/mly.cpp.obj" "gcc" "CMakeFiles/CMAKE_FIRST.dir/src/mly.cpp.obj.d"
+  "D:/desktop/cpp_test/cmake_firsr/code/divide.cpp" "CMakeFiles/CMAKE_FIRST.dir/code/divide.cpp.obj" "gcc" "CMakeFiles/CMAKE_FIRST.dir/code/divide.cpp.obj.d"
+  "D:/desktop/cpp_test/cmake_firsr/src/add.cpp" "CMakeFiles/CMAKE_FIRST.dir/src/add.cpp.obj" "gcc" "CMakeFiles/CMAKE_FIRST.dir/src/add.cpp.obj.d"
+  "D:/desktop/cpp_test/cmake_firsr/src/main.cpp" "CMakeFiles/CMAKE_FIRST.dir/src/main.cpp.obj" "gcc" "CMakeFiles/CMAKE_FIRST.dir/src/main.cpp.obj.d"
+  "D:/desktop/cpp_test/cmake_firsr/src/mly.cpp" "CMakeFiles/CMAKE_FIRST.dir/src/mly.cpp.obj" "gcc" "CMakeFiles/CMAKE_FIRST.dir/src/mly.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
